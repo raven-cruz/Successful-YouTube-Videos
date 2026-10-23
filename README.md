@@ -1,0 +1,1 @@
+Exploring a (dataset)[https://www.kaggle.com/datasets/rsrishav/YouTube-Trending-Video-Dataset/data?select=US_youtube_trending_data.csv] about trending YouTube videos.
