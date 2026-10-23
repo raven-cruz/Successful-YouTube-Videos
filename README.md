@@ -16,3 +16,7 @@ data/
     US_youtube_trending_data.csv
     US_category_id.json
 ```
+
+## External Libraries
+- pandas
+- matplotlib
