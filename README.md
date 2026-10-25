@@ -21,3 +21,4 @@ data/
 - pandas
 - matplotlib
 - matplotlib-label-lines
+- ipywidgets
