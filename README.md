@@ -20,3 +20,4 @@ data/
 ## External Libraries
 - pandas
 - matplotlib
+- matplotlib-label-lines
